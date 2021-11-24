@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.13f819f0.chunk.css",
-    "main.js": "/static/js/main.8fbdb910.chunk.js",
-    "main.js.map": "/static/js/main.8fbdb910.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1e1ade43.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1e1ade43.js.map",
-    "static/js/2.161e12ec.chunk.js": "/static/js/2.161e12ec.chunk.js",
-    "static/js/2.161e12ec.chunk.js.map": "/static/js/2.161e12ec.chunk.js.map",
-    "static/js/3.400018e5.chunk.js": "/static/js/3.400018e5.chunk.js",
-    "static/js/3.400018e5.chunk.js.map": "/static/js/3.400018e5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.13f819f0.chunk.css.map": "/static/css/main.13f819f0.chunk.css.map",
-    "static/js/2.161e12ec.chunk.js.LICENSE.txt": "/static/js/2.161e12ec.chunk.js.LICENSE.txt"
+    "main.css": "/Julekalender2021/static/css/main.13f819f0.chunk.css",
+    "main.js": "/Julekalender2021/static/js/main.8fbdb910.chunk.js",
+    "main.js.map": "/Julekalender2021/static/js/main.8fbdb910.chunk.js.map",
+    "runtime-main.js": "/Julekalender2021/static/js/runtime-main.ce36c768.js",
+    "runtime-main.js.map": "/Julekalender2021/static/js/runtime-main.ce36c768.js.map",
+    "static/js/2.161e12ec.chunk.js": "/Julekalender2021/static/js/2.161e12ec.chunk.js",
+    "static/js/2.161e12ec.chunk.js.map": "/Julekalender2021/static/js/2.161e12ec.chunk.js.map",
+    "static/js/3.400018e5.chunk.js": "/Julekalender2021/static/js/3.400018e5.chunk.js",
+    "static/js/3.400018e5.chunk.js.map": "/Julekalender2021/static/js/3.400018e5.chunk.js.map",
+    "index.html": "/Julekalender2021/index.html",
+    "static/css/main.13f819f0.chunk.css.map": "/Julekalender2021/static/css/main.13f819f0.chunk.css.map",
+    "static/js/2.161e12ec.chunk.js.LICENSE.txt": "/Julekalender2021/static/js/2.161e12ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e1ade43.js",
+    "static/js/runtime-main.ce36c768.js",
     "static/js/2.161e12ec.chunk.js",
     "static/css/main.13f819f0.chunk.css",
     "static/js/main.8fbdb910.chunk.js"
