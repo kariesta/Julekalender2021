@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Julekalender2021/static/css/main.13f819f0.chunk.css",
-    "main.js": "/Julekalender2021/static/js/main.9dc47f50.chunk.js",
-    "main.js.map": "/Julekalender2021/static/js/main.9dc47f50.chunk.js.map",
+    "main.js": "/Julekalender2021/static/js/main.c17bb3b7.chunk.js",
+    "main.js.map": "/Julekalender2021/static/js/main.c17bb3b7.chunk.js.map",
     "runtime-main.js": "/Julekalender2021/static/js/runtime-main.d9c817bf.js",
     "runtime-main.js.map": "/Julekalender2021/static/js/runtime-main.d9c817bf.js.map",
     "static/js/2.4a6b9189.chunk.js": "/Julekalender2021/static/js/2.4a6b9189.chunk.js",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.d9c817bf.js",
     "static/js/2.4a6b9189.chunk.js",
     "static/css/main.13f819f0.chunk.css",
-    "static/js/main.9dc47f50.chunk.js"
+    "static/js/main.c17bb3b7.chunk.js"
   ]
 }
